@@ -5,7 +5,7 @@ I have chosen the "Save Success Rate (% of Shots saved Target faced)" visualizat
 It talks about the surprising performance decline of Europe's top goalkeepers in the 2018/19 season compared to 2017/18. 
 Here is the link to the article: https://www.theguardian.com/football/who-scored-blog/2018/nov/29/europe-top-de-gea-courtois-ter-stegen-neuer
 
-![Visualization](HW4_4.png)
+![Visualization](https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_4.PNG)
 
 The reasons for choosing this visualization are:
 - I am an avid football(soccer) lover and used to play the sport professionally in high-school.
