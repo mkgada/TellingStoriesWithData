@@ -33,5 +33,6 @@ The things I would do differently are as follows:
 -	The scale of the chart has been truncated and starts at 45% on the y-axis. I would proceed to start the scale from 0% on the y-axis
 -	For all keepers with statistics from 2017/18 as well as 2018/19, I would proceed with graying the bar with the lower performance out of the two seasons. For example, David De Gea’s has lower performance in 2018/19, so that would be grayed but Buffon’s performance has increased in 2018/19 and the lower out of the two values is of 2017/18, so for Buffon that would be gray. Basically, the better performance years from the two would be in green and lower performance in gray to highlight the change
 
-
+# Wireframing and User reviews
+To proceed with trying to improve the overall readability of the visualization, I proceeded with developing a two wireframes and getting feedback from two individuals to incrementally improve the visualizations
 
