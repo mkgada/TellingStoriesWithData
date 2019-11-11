@@ -5,11 +5,7 @@ I have chosen the "Save Success Rate (% of Shots saved Target faced)" visualizat
 It talks about the surprising performance decline of Europe's top goalkeepers in the 2018/19 season compared to 2017/18. 
 Here is the link to the article: https://www.theguardian.com/football/who-scored-blog/2018/nov/29/europe-top-de-gea-courtois-ter-stegen-neuer
 
-![Visualization](/HW4_4.PNG)
-
-
 <img src='https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_4.PNG'/>
-
 
 The reasons for choosing this visualization are:
 - I am an avid football(soccer) lover and used to play the sport professionally in high-school.
@@ -42,9 +38,13 @@ To proceed with trying to improve the overall readability of the visualization, 
 
 Wireframe No.1 
 This is my first take on developing a possible solution for the visualization.
+- I decided to remove the overlapping bars for different years. Instead, they are represented side by side
 - I proceeded with ordering the appearance of the goalkeepers in a way that 6 keepers whose performance slipped in the 2018/19 appear first and the ones performing better than them in 2018/19 appear later.
 - Also, there are two bars associated with each goalkeeper. The left-hand side bar represents their performance in the 2017/18 and the right hand side bar represents the 2018/19 number.
 - I have color coded the 2018/19 performance in a way such that, for the goalkeepers whose performance dipped from the previous year have a red bar and otherwise they have green bar to highlight the difference in performance year-over-year.
+
+<img src='https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_11.jpg'/>
+
 
 Wireframe No.2 
 This is my second take on developing a possible solution for the visualization.
@@ -53,9 +53,8 @@ This is my second take on developing a possible solution for the visualization.
 - Also, there are two bars associated with each goalkeeper. The upeer bar represents their performance in the 2017/18 and the lower bar represents the 2018/19 number.
 - I have color coded the 2018/19 performance in a way such that, for the goalkeepers whose performance dipped from the previous year have a red bar and otherwise they have green bar to highlight the difference in performance year-over-year.
 
-![Visualization1](/HW4_11.jpg)
+<img src='https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_22.jpg'/>
 
-![Visualization2](/HW4_22.jpg)
 
 After making preliminary sketches, I proceeded by showing them to two different kind of people(a football fan and non-football fan). The aim for this review was to obtain insights into the ease of readability of my visualization and obtain potential suggestions to make it better.
 
@@ -96,7 +95,7 @@ Reflection
 
 Here is my final solution
 
-![Visualization3](/HW4_33.jpg)
+<img src='https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_33.jpg'/>
 
 Comments on the solution:
 - I proceeded with two-sided bar chart for the solution. The left-hand side of the bar chart shows the performance for the 2017/18 seasons and the right hand side shows the performance of 2018/19 season.
