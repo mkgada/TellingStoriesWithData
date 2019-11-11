@@ -36,3 +36,21 @@ The things I would do differently are as follows:
 # Wireframing and User reviews
 To proceed with trying to improve the overall readability of the visualization, I proceeded with developing a two wireframes and getting feedback from two individuals to incrementally improve the visualizations
 
+Wireframe No.1 
+This is my first take on developing a possible solution for the visualization.
+- I proceeded with ordering the appearance of the goalkeepers in a way that 6 keepers whose performance slipped in the 2018/19 appear first and the ones performing better than them in 2018/19 appear later.
+- Also, there are two bars associated with each goalkeeper. The left-hand side bar represents their performance in the 2017/18 and the right hand side bar represents the 2018/19 number.
+- I have color coded the 2018/19 performance in a way such that, for the goalkeepers whose performance dipped from the previous year have a red bar and otherwise they have green bar to highlight the difference in performance year-over-year.
+
+Wireframe No.2 
+This is my second take on developing a possible solution for the visualization.
+- I changed the alignment of the bar chart to horizontal. This was done to reduce the amount of eye-travel.
+- I proceeded with ordering the appearance of the goalkeepers in a way that 6 keepers whose performance slipped in the 2018/19 appear first and the ones performing better than them in 2018/19 appear later.
+- Also, there are two bars associated with each goalkeeper. The upeer bar represents their performance in the 2017/18 and the lower bar represents the 2018/19 number.
+- I have color coded the 2018/19 performance in a way such that, for the goalkeepers whose performance dipped from the previous year have a red bar and otherwise they have green bar to highlight the difference in performance year-over-year.
+![Visualization1](https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_1.jpeg)
+![Visualization2](https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_2.jpeg)
+
+
+
+
