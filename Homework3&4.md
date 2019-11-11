@@ -48,9 +48,60 @@ This is my second take on developing a possible solution for the visualization.
 - I proceeded with ordering the appearance of the goalkeepers in a way that 6 keepers whose performance slipped in the 2018/19 appear first and the ones performing better than them in 2018/19 appear later.
 - Also, there are two bars associated with each goalkeeper. The upeer bar represents their performance in the 2017/18 and the lower bar represents the 2018/19 number.
 - I have color coded the 2018/19 performance in a way such that, for the goalkeepers whose performance dipped from the previous year have a red bar and otherwise they have green bar to highlight the difference in performance year-over-year.
-![Visualization1](https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_1.jpg)
+
+![Visualization1](https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_11.jpg)
+
 ![Visualization2](https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_22.jpg)
 
+After making preliminary sketches, I proceeded by showing them to two different kind of people(a football fan and non-football fan). The aim for this review was to obtain insights into the ease of readability of my visualization and obtain potential suggestions to make it better.
+
+Review 1
+Reviewer: Rahul Jindal 
+Type of Person: Football Fan
+- Can you tell me what you think this is?
+This chart shows the comparative performances of top goalkeepers across Europe in 2017/18 and 2018/19 seasons
+- Can you describe to me what this is telling you?
+This chart is telling me that for certain goalkeepers, the performance dipped in 2018/19 and for some of them the performance improved.
+- Is there anything you find surprising or confusing?
+I am confused about why there are two colors used for representing performance in 2018/19 
+- Who do you think is the intended audience for this?
+According to me, this visualization is aimed at fellow football fans like me, football pundits and also possibly the team scouts
+- Is there anything you would change or do differently?
+It is very difficult to compare performance of two goalkeepers, since the bars for different years are placed beside each other. I would rather show performance of 2017/18 and 2018/19 separately
+
+Review 2
+Reviewer: Salil Deshpande
+Type of Person: Non-Football Fan
+- Can you tell me what you think this is?
+I think this chart shows the performances of different goalkeepers across Europe
+- Can you describe to me what this is telling you?
+This chart is conveying that some keepers are better than others. The ones who are considered really good goalkeepers have had a dip in their performance in 2018/19
+- Is there anything you find surprising or confusing?
+I am confused when I want to compare two goalkeepers for their performances for a particular year because of the side-by-side bars
+- Who do you think is the intended audience for this?
+According to me, this visualization is for football fans, football experts.
+- Is there anything you would change or do differently?
+I would love to have a horizontal bar chart because it would reduce the amount of time to read the entire chart from left to right when it is vertical. 
+
+Reflection
+- I felt the user reviews were really helpful for me in deciding the final design of the solution
+- I absolutely second the thought that it is difficult to compare the performance of the goalkeepers for a particular year. I would want to separate them.
+- The horizontal chart idea seems really helpful because it will help me reduce the eye-travel for the reader
+- I also felt that the main idea of the chart was to show the struggle of the top goalkeepers but it was not perceived by the users.
+- I would proceed with incorporating these suggestions in my final design
+
+Here is my final solution
+
+![Visualization3](https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_33.jpg)
+
+Comments on the solution:
+- I proceeded with two-sided bar chart for the solution. The left-hand side of the bar chart shows the performance for the 2017/18 seasons and the right hand side shows the performance of 2018/19 season.
+- This way we can easily compare performances of each goalkeeper year-over-year and also against each other easily
+- I have color-coded the bars for 2018/19 in such a way such that the ones whose performances dipped are red and the ones with improvement are in green.
+- Further, to highlight the main idea of struggles of the top goalkeepers in 2017/18 in 2018/19, I have encircled the top goalkeepers in a box of red as well as the title of the visualization was changed to potray that.
+
+
+# Thank you! 
 
 
 
