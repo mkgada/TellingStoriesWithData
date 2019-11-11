@@ -7,6 +7,10 @@ Here is the link to the article: https://www.theguardian.com/football/who-scored
 
 ![Visualization](/HW4_4.PNG)
 
+
+<img src='https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_4.PNG'/>
+
+
 The reasons for choosing this visualization are:
 - I am an avid football(soccer) lover and used to play the sport professionally in high-school.
 - I follow all kinds of footballing action that happens in Europe and am updated about the performance levels of most top players in various teams
