@@ -43,7 +43,9 @@ This is my first take on developing a possible solution for the visualization.
 - Also, there are two bars associated with each goalkeeper. The left-hand side bar represents their performance in the 2017/18 and the right hand side bar represents the 2018/19 number.
 - I have color coded the 2018/19 performance in a way such that, for the goalkeepers whose performance dipped from the previous year have a red bar and otherwise they have green bar to highlight the difference in performance year-over-year.
 
-<img src='https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_11.jpg'/>
+<img src='https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_11.jpg'/>img {
+    image-orientation: from-image;
+}
 
 
 Wireframe No.2 
