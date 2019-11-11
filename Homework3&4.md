@@ -48,8 +48,8 @@ This is my second take on developing a possible solution for the visualization.
 - I proceeded with ordering the appearance of the goalkeepers in a way that 6 keepers whose performance slipped in the 2018/19 appear first and the ones performing better than them in 2018/19 appear later.
 - Also, there are two bars associated with each goalkeeper. The upeer bar represents their performance in the 2017/18 and the lower bar represents the 2018/19 number.
 - I have color coded the 2018/19 performance in a way such that, for the goalkeepers whose performance dipped from the previous year have a red bar and otherwise they have green bar to highlight the difference in performance year-over-year.
-![Visualization1](https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_1.jpeg)
-![Visualization2](https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_2.jpeg)
+![Visualization1](https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_1.jpg)
+![Visualization2](https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_2.jpg)
 
 
 
