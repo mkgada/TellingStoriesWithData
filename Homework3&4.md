@@ -5,6 +5,7 @@ I have chosen the "Save Success Rate (% of Shots saved Target faced)" visualizat
 It talks about the surprising performance decline of Europe's top goalkeepers in the 2018/19 season compared to 2017/18. 
 Here is the link to the article: https://www.theguardian.com/football/who-scored-blog/2018/nov/29/europe-top-de-gea-courtois-ter-stegen-neuer
 
+![visualization2](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/HW4_4.PNG)
 <img src='https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_4.PNG'/>
 
 The reasons for choosing this visualization are:
@@ -43,9 +44,8 @@ This is my first take on developing a possible solution for the visualization.
 - Also, there are two bars associated with each goalkeeper. The left-hand side bar represents their performance in the 2017/18 and the right hand side bar represents the 2018/19 number.
 - I have color coded the 2018/19 performance in a way such that, for the goalkeepers whose performance dipped from the previous year have a red bar and otherwise they have green bar to highlight the difference in performance year-over-year.
 
-<img src='https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_11.jpg'/>img {
-    image-orientation: from-image;
-}
+![visualization1](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/HW4_11.jpg)
+<img src='https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_11.jpg'/>
 
 
 Wireframe No.2 
@@ -55,6 +55,7 @@ This is my second take on developing a possible solution for the visualization.
 - Also, there are two bars associated with each goalkeeper. The upeer bar represents their performance in the 2017/18 and the lower bar represents the 2018/19 number.
 - I have color coded the 2018/19 performance in a way such that, for the goalkeepers whose performance dipped from the previous year have a red bar and otherwise they have green bar to highlight the difference in performance year-over-year.
 
+![visualization2](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/HW4_22.jpg)
 <img src='https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_22.jpg'/>
 
 
@@ -97,6 +98,7 @@ Reflection
 
 Here is my final solution
 
+![visualization2](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/HW4_33.jpg)
 <img src='https://github.com/mkgada/TellingStoriesWithData/blob/master/HW4_33.jpg'/>
 
 Comments on the solution:
