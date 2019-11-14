@@ -15,6 +15,10 @@ Data.gov.in is the open government data portal for India. It is used by the Gove
 
 Historical Ambient Air Quality Data is collected on the a daily basis by the Ministry of Environment and Forests along with the Central Pollution Control Board. This daily data is available for the years 1987 onwards uptill 2015. Since the data is collected on a daily basis for a particular year, I have proceeded to calculate the average Air Quality for a particular year and use it for a time-series analysis.
 
+I am also going to use population data of New Delhi from http://statisticstimes.com/demographics/population-of-delhi.php to obtain the growth in population of New Delhi over the time period in consideration
+
+Apart from this, I am also going to use the data about the number of vehicles registered provided by the Ministry of Statistics and Programme Implementation. Note that this dataset is state-wise data and we would focus on state of Delhi for the project. The link to the website is as follows: http://mospi.nic.in/statistical-year-book-india/2018/189
+
 
 
 # Method and Medium
