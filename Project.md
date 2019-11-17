@@ -43,6 +43,12 @@ I am also going to use population data of New Delhi from http://statisticstimes.
 
 Apart from this, I am also going to use the data about the number of vehicles registered provided by the Ministry of Statistics and Programme Implementation. Note that this dataset is state-wise data and we would focus on state of Delhi for the project. The link to the website is as follows: http://mospi.nic.in/statistical-year-book-india/2018/189
 
+Here are the links to the data
+[Pollution Data](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/AirPollution.xlsx)
+
+[Vehicles](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/NoVehicles.xlsx)
+
+
 
 # Method and Medium
 For this project, to drill down to the possible causes of the deteriorated air quality, I am going to proceed with adopting the sequential approach to reach to a root cause and derive possible recommendation that could help alleviate the situation.
