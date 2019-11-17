@@ -52,7 +52,14 @@ Here are the links to the data
 
 # Method and Medium
 For this project, to drill down to the possible causes of the deteriorated air quality, I am going to proceed with adopting the sequential approach to reach to a root cause and derive possible recommendation that could help alleviate the situation.
+The stepwise plan to address the issue is detailed below:
 
+- Historic Significance of New Delhi
+- Document the growth of population and the associated problems 
+- Attribute the growth of vehicular traffic to population growth
+- Top contributors to bad air quality due to vehicular emissions
+- Effects of bad air quality 
+- Proposed Policy change
 
 <h3>Tools</h3>
 I have three primary data sources, and I am going to visualize them using DataWrapper and Tableau. I plan on using Colorbrewer to choose custom made color-schemes to the visualizations.
