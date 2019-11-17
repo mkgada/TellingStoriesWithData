@@ -18,6 +18,7 @@ For this project, I have chosen to address the issue of depreciating Air Quality
 Propose a potential change in policy to local government looking at the possible causes of the adverse air quality in New Delhi.
 
 # Sketches
+The sketches here depict the flow of my project
 
 # Data
 For this project, the primary data source is public dataset "Historical Daily Ambient Air Quality Data" available on data.gov.in.
