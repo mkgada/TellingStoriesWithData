@@ -20,6 +20,19 @@ Propose a potential change in policy to local government looking at the possible
 # Sketches
 The sketches here depict the flow of my project
 
+![sketch1](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_1.jpg)
+
+![sketch2](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_2.PNG)
+
+![sketch3](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_3.PNG)
+
+![sketch4](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_4.PNG)
+
+![sketch5](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_5.PNG)
+
+![sketch6](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_6.PNG)
+
+
 # Data
 For this project, the primary data source is public dataset "Historical Daily Ambient Air Quality Data" available on data.gov.in.
 Data.gov.in is the open government data portal for India. It is used by the Government of India to make available datasets, documents, reports, surveys gathered by them to the general masses of India.
