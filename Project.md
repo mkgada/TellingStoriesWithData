@@ -22,15 +22,15 @@ The sketches here depict the flow of my project
 
 ![sketch1](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_1.jpg)
 
-![sketch2](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_2.PNG)
+![sketch2](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_2.jpg)
 
-![sketch3](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_3.PNG)
+![sketch3](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_3.jpg)
 
-![sketch4](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_4.PNG)
+![sketch4](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_4.jpg)
 
-![sketch5](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_5.PNG)
+![sketch5](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_5.jpg)
 
-![sketch6](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_6.PNG)
+![sketch6](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_6.jpg)
 
 
 # Data
