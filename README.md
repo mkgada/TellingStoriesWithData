@@ -22,3 +22,6 @@ Here is where all my visualizations will go!
 
 
 [Project Part 1](/Project_MihirGada.md)
+
+
+[Project Part 2](/Project_MihirGada_Part2.md)
