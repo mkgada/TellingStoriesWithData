@@ -10,7 +10,7 @@ Here is my initial take on the sketches developed as a part of Part 1 of the Pro
 ![wire1](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/Wireframes1.jpg)
 
 The actual file consisting of the interview feedback is attached below.
-[User Feedback](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/blob/master/User%20Feedback.xlsx)
+[User Feedback](/User%20Feedback.xlsx)
 
 The interviews consisted of asking users specific questions related to the digital storyboard created like:
 
