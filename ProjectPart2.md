@@ -7,7 +7,10 @@ In Part 2, I have proceeded with actually creating a digital storyboard to bring
 
 Here is my initial take on the sketches developed as a part of Part 1 of the Project
 
+![wire1](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/Wireframes1.jpg)
+
 The actual file consisting of the interview feedback is attached below.
+[User Feedback](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/User Feedback.xlsx)
 
 The interviews consisted of asking users specific questions related to the digital storyboard created like:
 
@@ -30,3 +33,6 @@ Changes in Iteration 2:
 - Fixed the flow of the storyboard and also the left-right formatting
 - Used powerful imagery as background to set the tone of the corressponding section
 
+![wire21](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/Wireframe_v2_1.png)
+
+![wire22](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/Wireframe_v2_2.png)
