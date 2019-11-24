@@ -35,4 +35,12 @@ Changes in Iteration 2:
 
 ![wire21](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/Wireframe_v2_1.png)
 
+
+
+________________________________________________________________________________________________________________________________________
+
+
+
+
+
 ![wire22](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/Wireframe_v2_2.png)
