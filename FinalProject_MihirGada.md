@@ -21,22 +21,6 @@ For this project, I have chosen to address the issue of depreciating Air Quality
 <h4> Call to Action </h4>
 Propose a potential change in policy to local government looking at the possible causes of the adverse air quality in New Delhi.
 
-<h3>Sketches</h3>
-The sketches here depict the flow of my project
-
-![sketch1](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_1.jpg)
-
-![sketch2](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_2.jpg)
-
-![sketch3](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_3.jpg)
-
-![sketch4](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_4.jpg)
-
-![sketch5](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_5.jpg)
-
-![sketch6](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/sketchesproject_6.jpg)
-
-
 <h3>Data</h3>
 For this project, the primary data source is public dataset "Historical Daily Ambient Air Quality Data" available on data.gov.in.
 Data.gov.in is the open government data portal for India. It is used by the Government of India to make available datasets, documents, reports, surveys gathered by them to the general masses of India.
@@ -52,6 +36,63 @@ Here are the links to the data
 
 [Vehicles](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/NoVehicles.xlsx)
 
+# Method and Medium
+For this project, to drill down to the possible causes of the deteriorated air quality, I am going to proceed with adopting the sequential approach to reach to a root cause and derive possible recommendation that could help alleviate the situation.
+The stepwise plan to address the issue is detailed below:
 
+- Historic Significance of New Delhi
+- Document the growth of population and the associated problems 
+- Attribute the growth of vehicular traffic to population growth
+- Top contributors to bad air quality due to vehicular emissions
+- Effects of bad air quality 
+- Proposed Policy change
+
+<h3>Tools</h3>
+I have three primary data sources, and I am going to visualize them using DataWrapper and Tableau. I plan on using Colorbrewer to choose custom made color-schemes to the visualizations.
 
 Medium for final deliverable: Shorthand website
+
+<h2> Part 2:User Research</h2>
+Part 1 of the final project involved identifying the cause I wanted to address and a particular call to action to help alleviate that problem. It also involved sourcing the appropriate data to support my argument and use effective visualizations to convey the underlying message.
+
+In Part 2, I have proceeded with actually creating a digital storyboard to bring the opportunity to real life and collected user feedback by medium of interviews with 3 anonymous users and further refining my storyboard in accordance with their feedback.
+
+Here is my initial take on the sketches developed as a part of Part 1 of the Project
+
+![wire1](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/Wireframes1.jpg)
+
+The actual file consisting of the interview feedback is attached below.
+[User Feedback](https://github.com/mkgada/TellingStoriesWithData/blob/master/User%20Feedback.xlsx?raw=true)
+
+The interviews consisted of asking users specific questions related to the digital storyboard created like:
+
+- What do you think is the intended audience for this story?
+- Is there logical flow in the storyboard created? 
+- What elements of the story stand out for you?
+- What elements of the story are not helpful?
+- Are the data visualizations helpful? Are they in congruence with the underlying message to convey?
+And so on...
+
+
+Key Takeaways from User Feedback:
+- The storyline does not have smooth transitions from one section to another. There are abrupt breaks between sections
+- The blue background of the textual content is misleading 
+- The visualizations are apt and convey the message but they need to refined further
+
+Changes in Iteration 2:
+- Defined clear section breaks in the form of pages
+- Eliminated the blue background and converted it to transparent background
+- Fixed the flow of the storyboard and also the left-right formatting
+- Used powerful imagery as background to set the tone of the corressponding section
+
+![wire21](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/Wireframe_v2_1.png)
+
+
+
+________________________________________________________________________________________________________________________________________
+
+
+
+
+
+![wire22](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/Wireframe_v2_2.png)
