@@ -96,3 +96,17 @@ ________________________________________________________________________________
 
 
 ![wire22](https://raw.githubusercontent.com/mkgada/TellingStoriesWithData/master/Wireframe_v2_2.png)
+
+
+<h2>Part 3-Final Data Story</h2>
+Using the approach outlined above, I have managed to create a story about the air pollution in Delhi, posing possible causes that led to it backed by data evidence represented using effective visualizations.
+The final story has been delivered using Shorthand website. 
+
+<h4> Intended Audience </h4>
+It is intended to appeal the policy makers to address the mentioned problem but at the same time it is an eye opener for the residents for Delhi to reconsider their transport choices and promote usage of public transport to reduce emissions.
+
+<h4> Summary- Design Decisions </h4>
+This project has been developed using a constant feedback loop from the intended consumers of the story. This approach led to make the deliverable more mature, understandable and appealing. The user feedback helped me with key design decisions for the final project as well as the visualizations. They are listed as follows:
+- The background color of the shorthand website text parts was changed from blue to translucent. This change was done after receiving feeback that the blue color mislead the reader's thought.
+- The data visualizations were changed in accordance with the feedback. The color schemes of the visualization as well the chart types were changed to make them more readable and understandable supporting the background story
+- The data sources as well the image sources were cited adequately to back the truthfulness of data as well as avoid copyright issues
