@@ -111,3 +111,7 @@ This project has been developed using a constant feedback loop from the intended
 - The background color of the shorthand website text parts was changed from blue to translucent. This change was done after receiving feeback that the blue color mislead the reader's thought.
 - The data visualizations were changed in accordance with the feedback. The color schemes of the visualization as well the chart types were changed to make them more readable and understandable supporting the background story
 - The data sources as well the image sources were cited adequately to back the truthfulness of data as well as avoid copyright issues
+
+Link to the final website: https://carnegiemellon.shorthandstories.com/mihirgada/index.html
+
+
