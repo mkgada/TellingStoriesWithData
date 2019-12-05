@@ -107,6 +107,7 @@ It is intended to appeal the policy makers to address the mentioned problem but 
 
 <h4> Summary- Design Decisions </h4>
 This project has been developed using a constant feedback loop from the intended consumers of the story. This approach led to make the deliverable more mature, understandable and appealing. The user feedback helped me with key design decisions for the final project as well as the visualizations. They are listed as follows:
+
 - The background color of the shorthand website text parts was changed from blue to translucent. This change was done after receiving feeback that the blue color mislead the reader's thought.
 - The data visualizations were changed in accordance with the feedback. The color schemes of the visualization as well the chart types were changed to make them more readable and understandable supporting the background story
 - The data sources as well the image sources were cited adequately to back the truthfulness of data as well as avoid copyright issues
